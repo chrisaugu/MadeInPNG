@@ -4,7 +4,7 @@ The aim is to build a collection of softwares, scripts, tools, softwares, hardwa
 
 
 ## PNGX
-[PNGX](https://em-earthquake-ah.netlify.app)
+[PNGX API](https://github.com/pngx-api)
 
 ## EmEarthquakeAh
 [EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
