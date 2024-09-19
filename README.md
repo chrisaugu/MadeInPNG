@@ -5,7 +5,7 @@ MadeInPNG is a public curated collection of various digital solutions, including
 [EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
 
 ## API
-[PNGX API](https://github.com/pngx-api)
+[PNGX API](https://github.com/chrisaugu/pngx-api)
 
 # Contribute
 Your contributions are always welcome! Please take a look at the contribution guidelines first.
