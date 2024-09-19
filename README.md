@@ -2,11 +2,11 @@
 MadeInPNG is a public curated collection of various digital solutions, including software, scripts, tools, hardware, web applications, web services, hosting services, and any other digital products created by Papua New Guineans that are related to softwares and mathematics. Its aim is to showcase the innovation and creativity of Papua New Guinean developers to inspire aspiring software engineers and digital creators across the country.
 
 ## Web Apps
-[EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
-[PNG Map](https://pngmap.netlify.app/)
+- [EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
+- [PNG Map](https://pngmap.netlify.app/)
 
 ## API
-[PNGX API](https://github.com/chrisaugu/pngx-api)
+- [PNGX API](https://github.com/chrisaugu/pngx-api)
 
 # Contribute
 Your contributions are always welcome! Please take a look at the contribution guidelines first.
