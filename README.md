@@ -3,6 +3,7 @@ MadeInPNG is a public curated collection of various digital solutions, including
 
 ## Web Apps
 [EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
+[PNG Map](https://pngmap.netlify.app/)
 
 ## API
 [PNGX API](https://github.com/chrisaugu/pngx-api)
