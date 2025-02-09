@@ -1,5 +1,5 @@
 # MadeInPNG 🇵🇬
-MadeInPNG is a public curated collection of various digital solutions, including software, scripts, tools, hardware, web applications, web services, hosting services, and any other digital products created by Papua New Guineans that are related to softwares and mathematics. Its aim is to showcase the innovation and creativity of Papua New Guinean developers to inspire aspiring software engineers and digital creators across the country.
+MadeInPNG is a public curated collection of various digital solutions, including software, scripts, tools, hardware, web applications, web services, hosting services, and any other digital products created by Papua New Guineans that are related to softwares and/or mathematics. Its aim is to showcase the innovation and creativity of Papua New Guinean developers to inspire aspiring software engineers and digital creators across the country.
 
 ## Web Apps
 - [EmEarthquakeAh](https://em-earthquake-ah.netlify.app)
