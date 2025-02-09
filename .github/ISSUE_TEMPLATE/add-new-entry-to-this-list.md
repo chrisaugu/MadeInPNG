@@ -1,6 +1,6 @@
 ---
-name: Add XXX
-about: Add new item to the list
+name: Add new entry to this list
+about: Add new entry to the list
 title: ''
 labels: ''
 assignees: ''
